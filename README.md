@@ -6,7 +6,7 @@ ChatGPT 火爆全球，其强大的自然语言处理能力让人惊叹。但对
 
 别担心！这篇 **最全攻略** 将为你一站式解决所有疑问。无论你是想体验原汁原味的官方版，还是寻找国内便捷、免费的替代方案，本文都将为你提供清晰的指引，助你轻松玩转ChatGPT，解锁AI新技能！
 
-ChatGPT中文版：[https://gptcat.net/](https://gptcat.net/)
+ChatGPT中文版：[https://gptcat.net/](https://gptcat.net/)   
 ChatGPT镜像网站：[https://snakegpt.work](https://snakegpt.work)
 
 **本文核心内容：**
@@ -76,10 +76,10 @@ ChatGPT是由OpenAI开发的先进人工智能语言模型，能够进行对话�
 
 | **镜像站地址**       | **支持模型亮点**                       | **免费额度** | **注册方式**   | **特点**                                      |
 | :------------------- | :------------------------------------- | :----------- | :------------- | :-------------------------------------------- |
-| `[snakegpt.work](https://snakegpt.work)`      | GPT-4o, GPT-4, GPT-3.5, deepseek等       | 有           | 国内邮箱支持 | 运营时间较长，功能较全，支持绘图                |
-| `[gptcat.net](https://gptcat.net/)`         | GPT-4o, Claude, deepseek等             | 有           | 国内邮箱支持 | 还原官网体验，支持实时语音/视频对话 (特色)      |
-| `[chat.gptcat.net](https://chat.gptcat.net/)`       | GPT-4, GPT-3.5                         | 有           | 国内邮箱支持 | 提供开发者API                                 |
-| `[gptdog.online](http://gptdog.online/)`      | GPT-3.5                                | 有           | 国内邮箱支持 | 基础聊天，简单易用                            |
+| [snakegpt.work](https://snakegpt.work)      | GPT-4o, GPT-4, GPT-3.5, deepseek等       | 有           | 国内邮箱支持 | 运营时间较长，功能较全，支持绘图                |
+| [gptcat.net](https://gptcat.net/)        | GPT-4o, Claude, deepseek等             | 有           | 国内邮箱支持 | 还原官网体验，支持实时语音/视频对话 (特色)      |
+| [chat.gptcat.net](https://chat.gptcat.net/)       | GPT-4, GPT-3.5                         | 有           | 国内邮箱支持 | 提供开发者API                                 |
+| [gptdog.online](http://gptdog.online/)     | GPT-3.5                                | 有           | 国内邮箱支持 | 基础聊天，简单易用                            |
 
 **如何使用镜像网站？**
 
